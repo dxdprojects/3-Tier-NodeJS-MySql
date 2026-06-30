@@ -161,9 +161,5 @@ After following the setup instructions, you can access the application by naviga
 - **Edit User:** Click the "Edit" button next to a user entry to update their details.
 - **Delete User:** Click the "Delete" button next to a user entry to remove them from the list.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### NOTE: This Application Should not be used for commercial purpose by anyone else other than DevOps Shack
+ Application Should not be used for commercial purpose by anyone else other than DevOps Shack
 
